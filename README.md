@@ -19,6 +19,7 @@ Tengo probelmas para que la imagen ISO windows 10 se instale en la virtual box
 
   Para esto tengo que tener un interface de usuario en el que poder navegar por una estructura de archivos
 
-Asociado a cada nombre de archvo con su ruta debo indicar si puedo o no recupera la totalidad del archivo.
+Asociado a cada nombre de archivo con su ruta debo indicar si puedo o no recupera la totalidad del archivo.
 
 
+[Una primera aproximación] (https://codeonby.com/2022/05/07/python-for-data-recovery/)
